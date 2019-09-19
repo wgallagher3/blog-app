@@ -10,7 +10,7 @@ autopep8 = "*"
 [packages]
 django = "*"
 gunicorn = "*"
-whitenoise = "*"
+whitenoise = "==3.3.1"
 
 [requires]
 python_version = "3.6"
